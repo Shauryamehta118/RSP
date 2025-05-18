@@ -6,25 +6,4 @@
     "expiresAt": "2025-05-19",
     "allowOffline": true
   },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  },
-  {
-    "id": "974b65b4918022e4",
-    "username": "komal",
-    "password": "7555",
-    "expiresAt": "2025-05-19",
-    "allowOffline": true
-  },
-  {
-    "id": "974b65b4918022e4",
-    "username": "komal",
-    "password": "tarak",
-    "expiresAt": "2025-05-17",
-    "allowOffline": true
-  },
 ]
