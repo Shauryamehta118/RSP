@@ -1648,5 +1648,11 @@
     "key": "800052156",
     "expiresAt": "2026-01-14",
     "allowOffline": false
+  },
+  {
+    "id": "6572d30ed965d190",
+    "key": "800052098",
+    "expiresAt": "2026-01-03",
+    "allowOffline": false
   }
 ]
